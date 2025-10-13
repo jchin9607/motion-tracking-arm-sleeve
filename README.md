@@ -5,8 +5,6 @@ This is a final project for the MIT BWSI ETWT 2025 course/summer program.
 
 Our project uses 4 IMUs to map the arm and its movements to a 3D model on Unity
 
-![raw photo](/media/raw.png)
-
 ## Demo
 
 ![watch video here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7c64c19d53c306187557da8829f322639562ade0_img_4600.mp4)
@@ -43,8 +41,6 @@ The script applied the data to the joints, not the part. The script is located i
 
 Theo sewed our glove, and then sewed it onto a compression shirt. We then sewed the IMUs to the compression shirt, and sewed velcro to hold the wires in place.
 
-![glove vid](/media/glovevid.mp4)
-![final glove](/media/final%20glove.png)
 ![compression](/media/compression.png)
 ![velcro](/media/velcro.png)
 ![clean](/media/clean.png)
