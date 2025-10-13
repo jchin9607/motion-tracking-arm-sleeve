@@ -7,7 +7,7 @@ Our project uses 4 IMUs to map the arm and its movements to a 3D model on Unity
 
 ## Demo
 
-![watch video here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7c64c19d53c306187557da8829f322639562ade0_img_4600.mp4)
+![watch video here](media/demo.gif)
 
 ## Built by
 
