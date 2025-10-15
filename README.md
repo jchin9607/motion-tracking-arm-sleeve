@@ -12,7 +12,7 @@ Our project uses 4 IMUs to map the arm and its movements to a 3D model on Unity
 ## Built by
 
 - [Lucas (@jchin9607)](https://www.github.com/jchin9607)
-- Theo
+- [Theo (@tp-saw)](https://www.github.com/tp-saw)
 
 ## Technology Used
 
