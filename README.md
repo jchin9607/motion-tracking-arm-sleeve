@@ -16,7 +16,8 @@ Our project uses 4 IMUs to map the arm and its movements to a 3D model on Unity
 
 ## Technology Used
 
-**Hardware:** 4x Adafruit 9-DOF BNO085 IMU, Adafruit QT Py ESP32-S3, Adafruit PCA9546 4-Channel STEMMA I2C Multiplexer - We primarily soldered and used stemma cables
+**Hardware:** 4x Adafruit 9-DOF BNO085 IMU, Adafruit QT Py ESP32-S3, Adafruit PCA9546 4-Channel STEMMA I2C Multiplexer - We primarily soldered and used stemma cables. 
+The reason that we resorted to soldering was because the IMU connections were very sensitive and needed secure and direct connection from the wire to each port. Thus, soldering gave us the easiest way to ensure continous readings from the IMU. 
 
 **Software:** Unity, Arduino (we had to edit the SparkFun BNO080 Library for it to work with multiple IMUs and a multiplexer)
 
